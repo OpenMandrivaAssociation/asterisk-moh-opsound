@@ -78,3 +78,20 @@ rm -rf %{buildroot}
 %files -f %{name}.filelist
 %defattr(-,root, root)
 %doc CHANGES CREDITS LICENSE
+
+
+%changelog
+* Sun Dec 05 2010 Oden Eriksson <oeriksson@mandriva.com> 20091226-2mdv2011.0
++ Revision: 610000
+- rebuild
+
+* Wed Jan 06 2010 Lonyai Gergely <aleph@mandriva.org> 20091226-1mdv2010.1
++ Revision: 486659
+- Date: 20091226
+  Version: 2.03
+
+* Wed Aug 19 2009 Lonyai Gergely <aleph@mandriva.org> 20090818-1mdv2010.0
++ Revision: 417941
+- initial package
+- create asterisk-moh-opsound
+

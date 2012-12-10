@@ -1,10 +1,10 @@
 sources:
-  "asterisk-moh-opsound-alaw.tar.gz:"	297a53a16da18c8c507a8a83de4ce6252fee113a
-  "asterisk-moh-opsound-g722.tar.gz:"	ae5a0ebef5c24aa14abc5eca7e65c76451768035
-  "asterisk-moh-opsound-g729.tar.gz:"	41e47e8a063561d663c216a0118090204103e9c6
-  "asterisk-moh-opsound-gsm.tar.gz:"	0d58a6db46ba2d1effe50a3dd6afaa084f548621
-  "asterisk-moh-opsound-siren14.tar.gz:"	de00a375dfec12b863a362a5f9f6f2a2f0e60365
-  "asterisk-moh-opsound-siren7.tar.gz:"	2b1e51bcf912f4bb1e493496de46c64e1e1f4bd0
-  "asterisk-moh-opsound-sln16.tar.gz:"	b20fd1a9d3d6a5f51c52bbffed784b7a2369f4cc
-  "asterisk-moh-opsound-ulaw.tar.gz:"	9a76ab8df3e4f704a7d5760a08d0bf38282e9bde
-  "asterisk-moh-opsound-wav.tar.gz:"	f40fd6ea03dfe8d72ada2540b2288bfdc006381d
+  "asterisk-moh-opsound-alaw.tar.gz": 297a53a16da18c8c507a8a83de4ce6252fee113a
+  "asterisk-moh-opsound-g722.tar.gz": ae5a0ebef5c24aa14abc5eca7e65c76451768035
+  "asterisk-moh-opsound-g729.tar.gz": 41e47e8a063561d663c216a0118090204103e9c6
+  "asterisk-moh-opsound-gsm.tar.gz": 0d58a6db46ba2d1effe50a3dd6afaa084f548621
+  "asterisk-moh-opsound-siren14.tar.gz": de00a375dfec12b863a362a5f9f6f2a2f0e60365
+  "asterisk-moh-opsound-siren7.tar.gz": 2b1e51bcf912f4bb1e493496de46c64e1e1f4bd0
+  "asterisk-moh-opsound-sln16.tar.gz": b20fd1a9d3d6a5f51c52bbffed784b7a2369f4cc
+  "asterisk-moh-opsound-ulaw.tar.gz": 9a76ab8df3e4f704a7d5760a08d0bf38282e9bde
+  "asterisk-moh-opsound-wav.tar.gz": f40fd6ea03dfe8d72ada2540b2288bfdc006381d
