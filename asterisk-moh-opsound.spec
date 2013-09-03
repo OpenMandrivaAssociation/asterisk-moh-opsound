@@ -19,10 +19,10 @@ Source6:	http://downloads.asterisk.org/pub/telephony/sounds/releases/%{name}-sln
 Source7:	http://downloads.asterisk.org/pub/telephony/sounds/releases/%{name}-ulaw.tar.gz
 Source8:	http://downloads.asterisk.org/pub/telephony/sounds/releases/%{name}-wav.tar.gz
 Requires:	asterisk
-Provides:	asterisk-moh, asterisk-moh-freeplay
+Provides:	asterisk-moh-freeplay
+Provides:	asterisk-moh
 Obsoletes:	asterisk-moh-freeplay
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 Asterisk is an Open Source PBX and telephony development platform that can both
