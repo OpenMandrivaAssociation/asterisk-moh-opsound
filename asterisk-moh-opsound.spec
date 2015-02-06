@@ -4,7 +4,7 @@
 Summary:	Free music files for the Asterisk PBX and telephony application and toolkit
 Name:		asterisk-moh-opsound
 Version:	20091226
-Release:	%mkrel 2
+Release:	3
 License:	GPL
 Group:		System/Servers
 URL:		http://www.asterisk.org/
