@@ -7,7 +7,7 @@ Version:	20091226
 Release:	3
 License:	GPL
 Group:		System/Servers
-URL:		http://www.asterisk.org/
+URL:		https://www.asterisk.org/
 #for I in alaw g722 g729 gsm siren7 siren14 sln16 ulaw wav ; do wget -c http://downloads.asterisk.org/pub/telephony/sounds/releases/asterisk-moh-opsound-$I.tar.gz -P SOURCES ; done
 Source0:	http://downloads.asterisk.org/pub/telephony/sounds/releases/%{name}-alaw.tar.gz
 Source1:	http://downloads.asterisk.org/pub/telephony/sounds/releases/%{name}-g722.tar.gz
